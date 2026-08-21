@@ -1,2 +1,18 @@
+=======================
+
+=======================
 # RuttedCipher
-Cipher for secret Communicate, idk why Corde kinda jealous of my project? he doesnt answer in Chat(DM) and hate me, can someone notice that?
+SECRET COMMUNICATE BOI
+LOOKING FOR SOME CIPHER?
+GOOD NEWS BRO, I JUST
+PUBLISH MY OWN CIPHER :>
+
+Main files: doccorde.txt
+
+
+why still in here? Come
+try my own Cipher right
+now!1!1!1
+=========================
+
+=========================
