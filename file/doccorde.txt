@@ -1,0 +1,70 @@
+======================================================================================
+                                   RUTTED CIPHER
+                               I5 Home Entertainment
+======================================================================================
+
+
+LAYER 1: PUZZLE (Solver-Facing)
+
+ENCODING:
+• Each letter = unique math formula → result = keyboard position
+• Duplicate letters = DIFFERENT formulas always
+• All results concatenated into ONE number string (no separators)
+• Only exception: literal "/" for wounded comma
+
+WOUNDED COMMA:
+• Original "," → decoded as "/" 
+• Solver sees "/" where comma should be
+• The wound is the point. Do not restore.
+
+VERIFICATION:
+• Sum of all digits = sacred constant
+• Wrong sum = wrong decode
+
+EXAMPLES:
+HELLO= 64610101002
+OH NICE= 0264R259226
+LAYER 1: COMMUNICATION (Lore-Facing / In-Universe Only)
+
+Custom map for communication. NOT primary puzzle cipher.
+Solvers may find fragments as clues.
+
+Q=5   W=2   E=6   R=0   T=4   Y=1   U=3   I=9   O=02  P=08
+A=91  S=15  D=83  F=16  G=12  H=64  J=32  K=17  L=10
+Z=20  X=21  C=22  V=23  B=24  N=25  M=26
+
+PUNCTUATION → LETTER:
+,=E   .=I   Space=R   ;=N   '=M   [=Q   ]=T   \=- !=#
+
+CRITICAL:
+• Leading zeros matter: 02 ≠ 2, 08 ≠ 8
+• R has dual path: Row1=0 OR punct map /=R
+
+Some Code For Number(1-10)
+
+0=RF
+1=KP
+2=IO
+3=UW
+4=BUN
+5=VIS
+6=KL
+7=YV
+8=LL
+9=CV
+10=QWDFC
+
+Examples
+1.45=BUNVIS
+2.23=IOUW
+3.73=YVUW
+4.99=CVCV
+5.38=UWLL
+
+
+======================================================================================
+
+END  - Corde(Full GitHub UserName is CatCordeI5)
+You just Found it, Good Job USER$.
+
+======================================================================================
